@@ -6,6 +6,7 @@
 
 ```bash
 git clone https://github.com/nikuIin/pytest_db_questition
+cd pytest_db_questition
 ```
 
 ### Создание базы данных:
