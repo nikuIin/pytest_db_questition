@@ -24,8 +24,6 @@ owner sterx;
 
 ### Запуск тестов:
 
-Важно: 1 тест выполнится успешно, а второй упадет с `RuntimeError`
-
 ```bash
 uv run pytest
 ```
