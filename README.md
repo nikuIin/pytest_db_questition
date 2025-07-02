@@ -12,7 +12,7 @@ encoding="UTF-8"
 lc_collate="ru_RU.utf8"
 lc_ctype="ru_RU.utf8"
 owner sterx;
-
+```
 
 2) Также нужно изменить `DB_USER` в `.env`
 
